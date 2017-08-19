@@ -6,9 +6,8 @@ You have to created database before connecting  <br><br>
 <h3><b>BackEnd Details</b></h3><br>
 <ul>
  <li>I used myphpadmin of Wampserver and created following Database </li>
- <li>
-  <ul>
-   <li> Name of Database : project </li> 
+ <li>  Name of Database : project </li> 
+   <ul>
    <li> Table 1 : Details (roll_num,first_name,last_name,department,email,Address,phone_num) </li>
    <li> Table 2 : login (username,password) </li>
   </ul>
