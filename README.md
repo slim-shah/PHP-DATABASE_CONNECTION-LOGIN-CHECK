@@ -4,8 +4,14 @@ database and of Session creation and destruction<i> (Login Check & Logout)</i>. 
 of first_name,last_name and department <br>
 You have to created database before connecting  <br><br>
 <h3><b>BackEnd Details</b></h3><br>
-I used myphpadmin of Wampserver and created following Database <br><br>
-Name of Database : project <br> 
-Table 1 : Details (roll_num,first_name,last_name,department,email,Address,phone_num) <br>
-Table 2 : login (username,password) <br>
+<ul>
+ <li>I used myphpadmin of Wampserver and created following Database </li>
+ <li>
+  <ul>
+   <li> Name of Database : project </li> 
+   <li> Table 1 : Details (roll_num,first_name,last_name,department,email,Address,phone_num) </li>
+   <li> Table 2 : login (username,password) </li>
+  </ul>
+ </li>
+</ul> 
 ps: Here roll_num and username is same and they are primary key
