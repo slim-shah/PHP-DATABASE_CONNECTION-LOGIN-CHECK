@@ -1,4 +1,4 @@
-# PHP-DATABASE_CONNECTION-LOGIN-CHECK
+# PHP-DATABASE_CONNECTION-LOGIN-CHECK (Buddy_Finder)
 This is a Web Application <i>(small project)</i> which <b>demonstrates how to connect php with database </b>. It contains code of connecting with 
 database and of Session creation and destruction<i> (Login Check & Logout)</i>. It also contains query for fetching records either by using roll_number or by using combination
 of first_name,last_name and department <br>
